@@ -1,6 +1,8 @@
 # Git tips
 
-*This is a quick guide to help members less experienced with git with workflow.*
+*This is a quick guide to help with git workflow.*
+
+*Do not hesitate to use man pages or your search engine to learn more.*
 
 *If you think something is erronous, or something should be here because it will help, please PR!*
 
