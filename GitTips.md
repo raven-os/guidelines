@@ -56,7 +56,7 @@ This means that someone merging this branch with a previous version will merge t
 ```bash
 git commit --amend # often used with -a
 ```
-This allows to add the current modifications to the next commit.
+This allows to add the current modifications to the previous commit.
 
 I strongly advise to edit commits in PRs rather than stacking commits to fix mistakes (for example formatting).
 
