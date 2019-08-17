@@ -78,6 +78,8 @@ Using `git pull origin master` has the disadvantage that merges don't happen whe
 
 Using `git fetch origin master` and then `git rebase origin/master` allows to always have your commits be after those of the master branch.
 
+Note that this can be achieved using `git pull --rebase` which will save you some time.
+
 This also means that instead of having merges, you will fix conflicts in the appropriate commits, thus sanitizing the history.
 
 Of course, this requires to force push (see warning above).
